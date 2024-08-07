@@ -2,7 +2,7 @@
 name = "todo-api"
 version = "0.1.0"
 description = "Test ToDo application"
-authors = ["Robert Carr <bcarr@breezeline.com>"]
+authors = ["Robert Carr <robertlcarr@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
